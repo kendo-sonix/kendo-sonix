@@ -17,8 +17,6 @@
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kendo-sonix&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kendo-sonix&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kendo-sonix&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kendo-sonix&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kendo-sonix&theme=gruvbox&utcOffset=9)
 
